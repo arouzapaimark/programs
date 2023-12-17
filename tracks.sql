@@ -44,10 +44,10 @@ SELECT * FROM tracks
 ORDER BY length;
 
 -- Find total length of tracks
-SELECT SUM (length) FROM tracks;
+SELECT SUM(length) FROM tracks;
 
 -- Find average length of tracks
-SELECT AVG (length) FROM tracks;
+SELECT AVG(length) FROM tracks;
 
 -- Find tracks ending in Raceway
 SELECT track FROM tracks
