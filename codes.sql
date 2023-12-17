@@ -11,7 +11,7 @@ VALUES ('YYZ', 'Toronto Pearson', 'Canada');
 INSERT INTO codes (code, airport, country)
 VALUES ('YVR', 'Vancouver Intl', 'Canada');
 INSERT INTO codes (code, airport, country)
-VALUES ('YU ', 'Montreal Trudeau', 'Canada');
+VALUES ('YUL', 'Montreal Trudeau', 'Canada');
 INSERT INTO codes (code, airport, country)
 VALUES ('LAX', 'Los Angeles Intl', 'USA');
 INSERT INTO codes (code, airport, country)
