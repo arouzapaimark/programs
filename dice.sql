@@ -19,4 +19,4 @@ VALUES (6);
 
 -- Query random roll
 SELECT roll FROM dice
-ORDER BY RANDOM () LIMIT 1;
+ORDER BY RANDOM() LIMIT 1;
