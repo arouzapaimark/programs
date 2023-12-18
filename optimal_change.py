@@ -5,7 +5,7 @@ def main():
   while True:
 
     # Get change value from user
-    cents = float(input('Change owed (0.00 notation): '))
+    cents = float(input("Change owed (0.00 notation): "))
 
     # Break if input is positive
     if cents > 0:
